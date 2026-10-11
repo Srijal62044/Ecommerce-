@@ -1,0 +1,6 @@
+{
+  "name": "Sutradhar | Indian Multi-Vendor Artisan Marketplace",
+  "description": "Production-oriented full-stack multi-vendor marketplace featuring split orders, seller management, auditable ledger, UPI/Cards/COD payment gateway, and Supabase database architecture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
